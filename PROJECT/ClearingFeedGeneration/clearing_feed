@@ -1,0 +1,78 @@
+20 Mar 2018 00:04:51,430 - INFO -  - upload.ProcessInputFeeds -  -  - Entering read file ...
+20 Mar 2018 00:04:51,430 - INFO -  - upload.ProcessInputFeeds -  -  - Reading File .....
+-------------------------------------------------------
+File Data : 
+
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - Entering validateInput file 
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - 
+Valid Transaction Ref : 123456789012
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - Valid Payee name : RuchiVirendrasinghRajput
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - Valid Payee Account Number : 200000102011
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - Invalid Transaction Date : 17/3/2018
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - Valid Payer name : SnehaBandi
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - Valid Payer Account Number : 200000102011
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - Valid Transaction Amount : 5678.28
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - ValidateInputFile [invalidCharacterFlag=false, invalidNumberFlag=false, dateBeforeFlag=true, dateAfterFlag=false, invalidDateFormat=false, nameLengthExceeded=false, numberLengthInvalid=false, invalidMonthFlag=false, invalidDayFlag=false, InvalidAmountFlag=false, balanceExceededFlag=false, invalidYearFlag=false, invalidDateOccurance=false]
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - Exiting validateInput file 
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - Entering validateInput file 
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - 
+Valid Transaction Ref : 123456789012
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - Valid Payee name : RuchiVirendrasinghRajput
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - Valid Payee Account Number : 200000102011
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - Invalid Transaction Date : 17/3/2018
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - Valid Payer name : SnehaBandi
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - Valid Payer Account Number : 200000102011
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - Valid Transaction Amount : 5678.28
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - ValidateInputFile [invalidCharacterFlag=false, invalidNumberFlag=false, dateBeforeFlag=true, dateAfterFlag=false, invalidDateFormat=false, nameLengthExceeded=false, numberLengthInvalid=false, invalidMonthFlag=false, invalidDayFlag=false, InvalidAmountFlag=false, balanceExceededFlag=false, invalidYearFlag=false, invalidDateOccurance=false]
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - Exiting validateInput file 
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - Entering validateInput file 
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - 
+Valid Transaction Ref : 123456789012
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - Valid Payee name : RuchiVirendrasinghRajput
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - Valid Payee Account Number : 200000102011
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - Invalid Transaction Date : 18/3/2018
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - Valid Payer name : SnehaBandi
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - Valid Payer Account Number : 200000102011
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - Valid Transaction Amount : 5678.28
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - ValidateInputFile [invalidCharacterFlag=false, invalidNumberFlag=false, dateBeforeFlag=true, dateAfterFlag=false, invalidDateFormat=false, nameLengthExceeded=false, numberLengthInvalid=false, invalidMonthFlag=false, invalidDayFlag=false, InvalidAmountFlag=false, balanceExceededFlag=false, invalidYearFlag=false, invalidDateOccurance=false]
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - Exiting validateInput file 
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - Entering validateInput file 
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - 
+Valid Transaction Ref : 123456789012
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - Valid Payee name : RuchiVirendrasinghRajput
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - Valid Payee Account Number : 200000102011
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - Invalid Transaction Date : 18/3/2018
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - Valid Payer name : SnehaBandi
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - Valid Payer Account Number : 200000102011
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - Valid Transaction Amount : 5678.28
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - ValidateInputFile [invalidCharacterFlag=false, invalidNumberFlag=false, dateBeforeFlag=true, dateAfterFlag=false, invalidDateFormat=false, nameLengthExceeded=false, numberLengthInvalid=false, invalidMonthFlag=false, invalidDayFlag=false, InvalidAmountFlag=false, balanceExceededFlag=false, invalidYearFlag=false, invalidDateOccurance=false]
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - Exiting validateInput file 
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - Entering validateInput file 
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - 
+Valid Transaction Ref : 123456789023
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - Valid Payee name : AahanaPurohit
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - Invalid Payee Account Number : 2000001020112
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - Invalid Transaction Date : 14/2/2018
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - Valid Payer name : RuchiVirendrasinghRajput
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - Invalid Payer Account Number : 2000001020112
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - Invalid Transaction Amount : 9.999999989995E10
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - ValidateInputFile [invalidCharacterFlag=false, invalidNumberFlag=false, dateBeforeFlag=true, dateAfterFlag=false, invalidDateFormat=false, nameLengthExceeded=false, numberLengthInvalid=true, invalidMonthFlag=false, invalidDayFlag=false, InvalidAmountFlag=false, balanceExceededFlag=true, invalidYearFlag=false, invalidDateOccurance=false]
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - Exiting validateInput file 
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - Entering validateInput file 
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - 
+Valid Transaction Ref : 123456789034
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - Valid Payee name : SnehaBandi
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - Invalid Payee Account Number : 2000001020113
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - Invalid Transaction Date : 3/2/2018
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - Valid Payer name : VarshaMundhe
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - Invalid Payer Account Number : 2000001020113
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - Invalid Transaction Amount : -125.0
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - ValidateInputFile [invalidCharacterFlag=false, invalidNumberFlag=false, dateBeforeFlag=true, dateAfterFlag=false, invalidDateFormat=false, nameLengthExceeded=false, numberLengthInvalid=true, invalidMonthFlag=false, invalidDayFlag=false, InvalidAmountFlag=true, balanceExceededFlag=false, invalidYearFlag=false, invalidDateOccurance=false]
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - Exiting validateInput file 
+20 Mar 2018 00:04:51,446 - INFO -  - feedgeneration.ClearingFeedFile -  -  - Entering clear feed log
+20 Mar 2018 00:04:51,446 - INFO -  - feedgeneration.ClearingFeedFile -  -  - date : 2032018 time : 1521484491446
+20 Mar 2018 00:04:51,446 - INFO -  - feedgeneration.ClearingFeedFile -  -  - Old file path : test_sample.txt
+File name : test_sample
+20 Mar 2018 00:04:51,446 - INFO -  - feedgeneration.ClearingFeedFile -  -  - New File path : C:\Users\sneha\Documents\archive\test_sample.txt
+20 Mar 2018 00:04:51,446 - INFO -  - feedgeneration.ClearingFeedFile -  -  - Exiting clear feed ...
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - Exiting read file ...

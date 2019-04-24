@@ -1,0 +1,77 @@
+20 Mar 2018 00:04:51,430 - INFO -  - upload.ProcessInputFeeds -  -  - Entering read file ...
+20 Mar 2018 00:04:51,446 - INFO -  - Reading File .....
+Reading File .....
+-------------------------------------------------------
+File Data : 
+
+
+Valid Transaction Ref : 999991169012
+Valid Payee name : RuchiVirendrasinghRajput
+Valid Payee Account Number : 200000102011
+Valid Transaction Date : 19/3/2018
+Valid Payer name : SnehaBandi
+Valid Payer Account Number : 200000102011
+Valid Transaction Amount : 5678.28
+ValidateInputFile [invalidCharacterFlag=false, invalidNumberFlag=false, dateBeforeFlag=false, dateAfterFlag=false, invalidDateFormat=false, nameLengthExceeded=false, numberLengthInvalid=false, invalidMonthFlag=false, invalidDayFlag=false, InvalidAmountFlag=false, balanceExceededFlag=false, invalidYearFlag=false, invalidDateOccurance=false]
+
+Valid Transaction Ref : 999991169012
+Valid Payee name : UtkarshaKanade
+Valid Payee Account Number : 200000102011
+Valid Transaction Date : 19/3/2018
+Valid Payer name : SnehaBandi
+Valid Payer Account Number : 200000102011
+Valid Transaction Amount : 45336.28
+ValidateInputFile [invalidCharacterFlag=false, invalidNumberFlag=false, dateBeforeFlag=false, dateAfterFlag=false, invalidDateFormat=false, nameLengthExceeded=false, numberLengthInvalid=false, invalidMonthFlag=false, invalidDayFlag=false, InvalidAmountFlag=false, balanceExceededFlag=false, invalidYearFlag=false, invalidDateOccurance=false]
+
+Valid Transaction Ref : 123488789012
+Valid Payee name : RuchiVirendrasinghRajput
+Valid Payee Account Number : 123456789102
+Valid Transaction Date : 19/3/2018
+Valid Payer name : JanhaviChahpekar
+Valid Payer Account Number : 123456789102
+Valid Transaction Amount : 24510.28
+ValidateInputFile [invalidCharacterFlag=false, invalidNumberFlag=false, dateBeforeFlag=false, dateAfterFlag=false, invalidDateFormat=false, nameLengthExceeded=false, numberLengthInvalid=false, invalidMonthFlag=false, invalidDayFlag=false, InvalidAmountFlag=false, balanceExceededFlag=false, invalidYearFlag=false, invalidDateOccurance=false]
+
+Valid Transaction Ref : 512222335666
+Valid Payee name : RuchiVirendrasinghRajput
+Valid Payee Account Number : 200000102011
+Valid Transaction Date : 19/3/2018
+Valid Payer name : SnehaBandi
+Valid Payer Account Number : 200000102011
+Valid Transaction Amount : 81823.28
+ValidateInputFile [invalidCharacterFlag=false, invalidNumberFlag=false, dateBeforeFlag=false, dateAfterFlag=false, invalidDateFormat=false, nameLengthExceeded=false, numberLengthInvalid=false, invalidMonthFlag=false, invalidDayFlag=false, InvalidAmountFlag=false, balanceExceededFlag=false, invalidYearFlag=false, invalidDateOccurance=false]
+
+Valid Transaction Ref : 123456789023
+Valid Payee name : AahanaPurohit
+Valid Payee Account Number : 200001020099
+Valid Transaction Date : 19/3/2018
+Valid Payer name : RuchiVirendrasinghRajput
+Valid Payer Account Number : 200001020099
+Valid Transaction Amount : 99899.95
+ValidateInputFile [invalidCharacterFlag=false, invalidNumberFlag=false, dateBeforeFlag=false, dateAfterFlag=false, invalidDateFormat=false, nameLengthExceeded=false, numberLengthInvalid=false, invalidMonthFlag=false, invalidDayFlag=false, InvalidAmountFlag=false, balanceExceededFlag=false, invalidYearFlag=false, invalidDateOccurance=false]
+
+Valid Transaction Ref : 123456789034
+Valid Payee name : SnehaBandi
+Valid Payee Account Number : 200000102011
+Valid Transaction Date : 19/3/2018
+Valid Payer name : VarshaMundhe
+Valid Payer Account Number : 200000102011
+Valid Transaction Amount : 125.0
+ValidateInputFile [invalidCharacterFlag=false, invalidNumberFlag=false, dateBeforeFlag=false, dateAfterFlag=false, invalidDateFormat=false, nameLengthExceeded=false, numberLengthInvalid=false, invalidMonthFlag=false, invalidDayFlag=false, InvalidAmountFlag=false, balanceExceededFlag=false, invalidYearFlag=false, invalidDateOccurance=false]
+
+Valid Transaction Ref : 999991169012
+Valid Payee name : RuchiVirendrasinghRajput
+Valid Payee Account Number : 200000102011
+Valid Transaction Date : 19/3/2018
+Valid Payer name : SnehaBandi
+Valid Payer Account Number : 200000102011
+Valid Transaction Amount : 5678.28
+ValidateInputFile [invalidCharacterFlag=false, invalidNumberFlag=false, dateBeforeFlag=false, dateAfterFlag=false, invalidDateFormat=false, nameLengthExceeded=false, numberLengthInvalid=false, invalidMonthFlag=false, invalidDayFlag=false, InvalidAmountFlag=false, balanceExceededFlag=false, invalidYearFlag=false, invalidDateOccurance=false]
+date : 1932018 time : 1521480851811
+Old file path : C:\Users\sneha\Desktop\samples\completevalid.txt
+File name : completevalid
+New File path : C:\Users\sneha\Documents\archive\completevalid.txt
+Files Ready !!
+File Successfully Parsed !
+20 Mar 2018 00:04:51,446 - INFO -  - feedgeneration.ClearingFeedFile -  -  - Exiting clear feed ...
+20 Mar 2018 00:04:51,446 - INFO -  - upload.ProcessInputFeeds -  -  - Exiting read file ...

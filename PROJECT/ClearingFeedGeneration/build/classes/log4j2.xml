@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="warn">
+
+	<Appenders>
+		<RollingFile name="RollingFile"
+		fileName="clearing_feed"
+		filePattern="clearing_feed-%d{yyyy-MM-dd-HH}-%i.log">
+		<PatternLayout>
+			<pattern>%d{DATE} - %p - %X{THREADID} - %c - %X{METHOD} - %X{LINE} - %m%n</pattern>
+		</PatternLayout>
+		<Policies>
+			<TimeBasedTriggeringPolicy interval="1" modulate="true" />
+		</Policies>
+		</RollingFile>
+	</Appenders>
+	
+	<Loggers>
+		<Logger name="root" level="info" additivity="false">
+			<appender-ref ref="RollingFile" level="info" />
+		</Logger>
+	</Loggers>
+</Configuration>
